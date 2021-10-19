@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>paik web</title>
+        <style>
+            body {background-color: lightgray;}
+        </style>
+    </head>
+    
+    <body>
+        <h1>Apa itu paik?</h1>
+        <header><img src="foto/pik mrh.jpg" alt="gambar paik" height="400" width="600"></header>
+
+        <h2>Mari kenali paik</h2>
+        <p>okwe</p>
+        <h3>Intro</h3>
+        <p>nama : Paik<br>jenis kelamin : laki laki<br>umur : 16 taun<br>tinggal : Bekasibekasibekasi<br><a href="https://faarisdzaki.com/" target="_blank">kelas : 10 RPL A</a></p>
+        <hr>
+        <p><u><b>Paik</b> adalah sebuah makhluk</u>, <i>yang amat janmdfnadsnnsdmnc mcnlrnfjeoijw.</i> Mauris dictum aliquam tincidunt. Sed dictum libero in ligula vestibulum lacinia. Curabitur at lectus vitae ipsum volutpat vulputate. Phasellus accumsan laoreet ligula, sit amet gravida dolor commodo eu. In congue dictum nibh, molestie pellentesque tortor pellentesque nec. Proin laoreet lectus id vestibulum tempor. Donec ullamcorper at massa eget congue. Nunc sollicitudin neque ac erat tincidunt, sed bibendum sapien consequat. Praesent non dui dui. Quisque mollis nibh at odio dignissim, et pretium quam finibus. Nullam ac suscipit diam, vel viverra nunc. Mauris in orci vel purus consequat imperdiet vitae eget leo.</p>
+
+        <p>Tanda tanda kepaikan</p>
+        <ul>
+            <li>ganteng</li>
+            <li>baek</li>
+            <li>mer....</li>
+        </ul>
+        <p>Vivamus vehicula magna et orci mollis pretium a ac quam. Vestibulum ac ligula quis tellus scelerisque dignissim consectetur ac purus. Aliquam blandit est nec nulla tristique, a porta est pharetra. Nulla vestibulum justo sed tellus pellentesque tristique. Cras cursus tincidunt vulputate. Integer sit amet quam eget orci semper placerat at et elit. Mauris consectetur cursus leo semper rhoncus. Etiam nunc magna, scelerisque eu convallis at, tincidunt non velit.</p>
+
+        <p>lukamnnnn hakim</p>
+
+        <p>Praesent neque lectus, porttitor accumsan sollicitudin nec, sagittis eget arcu. Nam luctus non nisl at ultricies. Ut placerat mi id tellus volutpat cursus. Vivamus sagittis mi et volutpat ultrices. Fusce tellus mi, auctor id tempor ut, egestas sit amet tellus. Nam et ullamcorper ipsum. Sed in egestas ipsum, eget sollicitudin ipsum. Donec non est varius, porttitor ex sed, commodo massa. Aliquam sit amet tellus varius, elementum nunc ac, volutpat ante. Integer facilisis, nunc eget imperdiet tincidunt, tellus mi laoreet diam, sed viverra lectus sapien id urna. Praesent condimentum posuere nunc ac feugiat. Sed quis eros eget purus cursus semper eu eu tellus. Nam egestas nibh id tellus pharetra lobortis.</p>
+        <br>
+        <table border="10" cellpadding="10" cellspacing="10">
+            <tr>
+                <th>torik</th>
+                <th>garin</th>
+                <th>gua</th>
+                <th>juma</th>
+                <th>pahri</th>
+            </tr>
+            <tr>
+                <th>Rp.5000</th>
+                <th>Rp.7000</th>
+                <th>Rp.5000</th>
+                <th>Rp.10.000</th>
+                <th>Rp.50.000</th>
+            </tr>
+        </table>
+
+
+    </body>
+</html>
